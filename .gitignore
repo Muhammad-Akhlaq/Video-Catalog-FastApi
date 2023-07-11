@@ -1,0 +1,16 @@
+*.py[cod]
+*$py.class
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+Pipfile.lock
+*.sqlite3
+.env
+.idea/
+venv
+.pytest_cache
+*.log
+*.db
